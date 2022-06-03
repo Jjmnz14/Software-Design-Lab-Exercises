@@ -32,6 +32,5 @@ n = 4
 TowerOfHanoi(n, 'A', 'C', 'B')
 # A, C, B are the name of rods
 
-# Contributed By Harshit Agrawal
 
 
